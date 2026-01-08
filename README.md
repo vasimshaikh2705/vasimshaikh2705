@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vasimshaikh2705&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vasimshaikh2705&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vasimshaikh2705&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasimshaikh2705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasimshaikh2705&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=vasimshaikh2705&icon=0&color=0" />
