@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasimshaikh2705&theme=dark&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasimshaikh2705&theme=dark&hide_border=false&show_icons=true" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=vasimshaikh2705&theme=dark&hide_border=false" />
 </p>
