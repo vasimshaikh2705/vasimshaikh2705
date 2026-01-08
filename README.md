@@ -1,7 +1,7 @@
 # Hi there, I'm Vasim! 👋
 ## ☁️ Senior Cloud & DevOps Architect | 14+ Years Experience
 
-🔭 **I’m currently working on:** Architecting Multi-Cloud (AWS/Azure) environments and implementing Agentic AI workflows for automation.<br>
+🔭 **I’m currently working on:** Architecting Multi-Cloud (AWS/GCP/Azure) environments and implementing Agentic AI workflows for automation.<br>
 👯 **I’m looking to collaborate on:** Enterprise-scale DevSecOps transformations and Cloud Cost Optimization strategies.<br>
 🤝 **I’m looking for help with:** Advanced patterns for Agentic AI self-healing mechanisms.<br>
 🌱 **I’m currently learning:** Advanced Zero Trust Security architectures and evolving AI-driven DevOps practices.<br>
